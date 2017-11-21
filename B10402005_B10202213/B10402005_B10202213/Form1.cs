@@ -29,6 +29,7 @@ namespace B10402005_B10202213
             int n = obj.randNumber();
             label1.Text = n.ToString() ;
             */
+            
         }
 
         
