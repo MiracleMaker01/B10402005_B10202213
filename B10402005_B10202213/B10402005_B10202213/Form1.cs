@@ -16,6 +16,7 @@ namespace B10402005_B10202213
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -33,5 +34,7 @@ namespace B10402005_B10202213
         }
 
         
+=======
+>>>>>>> parent of aed0359... problem2
     }
 }
